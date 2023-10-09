@@ -6,7 +6,7 @@
 
 # Holopin Badges
 
-[![Holopin board](https://holopin.io/api/user/board?user=manishpjha)](https://holopin.io/@manishpjha)
+[![An image of @manishpjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishpjha)](https://holopin.io/@manishpjha)
 
 <!---
 ManishPJha/ManishPJha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
