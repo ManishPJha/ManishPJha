@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on any project that have my preference of language.
 - 📫 you can reach me at ----> mjha205@rku.ac.in
 
+# Holopin Badges
+
+[![Holopin board](https://holopin.io/api/user/board?user=manishpjha)](https://holopin.io/@manishpjha)
+
 <!---
 ManishPJha/ManishPJha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
