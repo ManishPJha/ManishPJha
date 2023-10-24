@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that have my preference of language.
 - 📫 you can reach me at ----> mjha205@rku.ac.in
 
-# Holopin Badges
+# Badge Board
 
 [![An image of @manishpjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishpjha)](https://holopin.io/@manishpjha)
 
